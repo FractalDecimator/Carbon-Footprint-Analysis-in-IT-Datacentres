@@ -1,0 +1,2 @@
+*.python linguist-detectable=true
+*.pyspark linguist-detectable=true

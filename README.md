@@ -56,7 +56,7 @@ This solution empowers business analysts, data scientists, and IT sustainability
   Benchmark carbon footprint against industry standards and integrate insights into strategic IT planning.
 
 # Getting Started
-Prerequisites:
+Prerequisites:\
 ● Databricks workspace (community/enterprise)
 
 ● Python 3.8+ environment

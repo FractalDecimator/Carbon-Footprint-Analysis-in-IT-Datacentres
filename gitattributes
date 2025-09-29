@@ -1,2 +1,3 @@
 *.python linguist-detectable=true
 *.pyspark linguist-detectable=true
+*.jupyter-notebook linguist-detectable=false

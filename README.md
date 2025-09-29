@@ -5,25 +5,25 @@ This solution empowers business analysts, data scientists, and IT sustainability
 
 # 📊 Key Features
 ● Streamlined EDA Workflow
-- Ingest, clean, and explore datacenter carbon footprint metrics with Databricks and PySpark.
+  Ingest, clean, and explore datacenter carbon footprint metrics with Databricks and PySpark.
 
 ● Country-Level Emission Profiling
-- Aggregate and compare IT datacenter emissions across regions to support local and global analysis.
+  Aggregate and compare IT datacenter emissions across regions to support local and global analysis.
 
 ● Data Quality and Transformation
-- Leverages structured data cleaning, normalization, and aggregation for reliable insights.
+  Leverages structured data cleaning, normalization, and aggregation for reliable insights.
 
 ● Visual Analytics
-- Generate descriptive statistics, heatmaps, and emission distributions for clear benchmarking.
+  Generate descriptive statistics, heatmaps, and emission distributions for clear benchmarking.
 
 ● Comparative Insights
-- Identify top emitting countries, spot trends, and highlight opportunities for efficiency improvements.
+  Identify top emitting countries, spot trends, and highlight opportunities for efficiency improvements.
 
 ● Temporal Analysis
-- Track emissions over time to measure impact of sustainability initiatives and policy changes.
+  Track emissions over time to measure impact of sustainability initiatives and policy changes.
 
 ● Scalable Processing
-- Distribute processing across large datasets for enterprise-scale analysis using Databricks.
+  Distribute processing across large datasets for enterprise-scale analysis using Databricks.
 
 # Solution Architecture
 ● Data Ingestion: Source carbon metrics from trusted databases or APIs.
@@ -38,22 +38,22 @@ This solution empowers business analysts, data scientists, and IT sustainability
 
 # 📝 Use Cases
 ● Business Analysts
-- Identify emission hotspots and areas for sustainability improvements by country and region.
+  Identify emission hotspots and areas for sustainability improvements by country and region.
 
 ● Data Scientists
-- Build predictive models for future emission trends and scenario planning.
+  Build predictive models for future emission trends and scenario planning.
 
 ● IT Sustainability Leaders
-- Track progress on carbon neutrality and compliance with environmental targets.
+  Track progress on carbon neutrality and compliance with environmental targets.
 
 ● Infrastructure Teams
-- Locate high-impact datacenters for energy efficiency upgrades and renewable adoption.
+  Locate high-impact datacenters for energy efficiency upgrades and renewable adoption.
 
 ● Policy Makers and Regulators
-- Access actionable country-level data for governance and regulation development.
+  Access actionable country-level data for governance and regulation development.
 
 ● Corporate Strategy Teams
-- Benchmark carbon footprint against industry standards and integrate insights into strategic IT planning.
+  Benchmark carbon footprint against industry standards and integrate insights into strategic IT planning.
 
 # Getting Started
 Prerequisites:
